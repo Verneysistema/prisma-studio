@@ -16,7 +16,7 @@ import {
   Zap,
 } from "lucide-react";
 
-const referenceImage = "/manus-storage/prateleira-princesa_f85bc59c.jpeg";
+const referenceImage = "/prisma-studio/images/prateleira-princesa.jpeg";
 
 const categories = ["Tudo", "Lembrancinhas", "Festas", "Quarto infantil"];
 
@@ -36,7 +36,7 @@ const portfolio = [
     tag: "Decoração de aniversário",
     description: "Prateleiras, doces e detalhes que deixam a mesa do parabéns ainda mais encantadora.",
     className: "portfolio-sun",
-    image: "/manus-storage/prateleira-festa-princesa_2e08e9ff.jpeg",
+    image: "/prisma-studio/images/prateleira-festa-princesa.jpeg",
     alt: "Prateleiras rosas decorando uma mesa de aniversário com tema princesa",
   },
   {
